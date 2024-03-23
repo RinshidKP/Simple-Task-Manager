@@ -45,10 +45,10 @@ The application provides the following functionalities to help users find tasks 
 - Search: Users can search for tasks using a search bar.
 - Filter: Users can filter tasks based on priority and completion status.
 
-## Installation
+## Installation:
 
 1. Clone the repository:
-
+```
    ```bash
    git clone https://github.com/RinshidKP/simple-task-manager.git
    ```
