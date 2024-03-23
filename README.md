@@ -50,7 +50,7 @@ The application provides the following functionalities to help users find tasks 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/simple-task-manager.git
+   git clone https://github.com/RinshidKP/simple-task-manager.git
    ```
 
 2. Install dependencies:
